@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.abhagat.SpringCrud.model.Employee;
 import com.abhagat.SpringCrud.repo.EmployeeRepo;
 
-@Service // Service to implement crud
+@Service // Service 
 public class EmployeeService {
 	
 	@Autowired
