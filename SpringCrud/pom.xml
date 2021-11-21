@@ -14,7 +14,7 @@
 	<name>SpringCrud</name>
 	<description>Spring Crud</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -63,6 +63,7 @@
 					</excludes>
 				</configuration>
 			</plugin>
+		
 		</plugins>
 	</build>
 
